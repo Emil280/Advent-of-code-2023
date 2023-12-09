@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Advent-of-code-2023.iml" filepath="$PROJECT_DIR$/.idea/Advent-of-code-2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1/Day1Part1/Day1Part1.iml" filepath="$PROJECT_DIR$/Day1/Day1Part1/Day1Part1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1/Day1Part2/Day1Part2.iml" filepath="$PROJECT_DIR$/Day1/Day1Part2/Day1Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2/Day2Part1/Day2Part1.iml" filepath="$PROJECT_DIR$/Day2/Day2Part1/Day2Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2/Day2Part2/Day2Part2.iml" filepath="$PROJECT_DIR$/Day2/Day2Part2/Day2Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3/Day3Part1/Day3Part1.iml" filepath="$PROJECT_DIR$/Day3/Day3Part1/Day3Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3/Day3Part2/Day3Part2.iml" filepath="$PROJECT_DIR$/Day3/Day3Part2/Day3Part2.iml" />
     </modules>
   </component>
 </project>

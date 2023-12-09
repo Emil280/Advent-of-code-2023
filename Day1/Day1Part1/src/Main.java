@@ -6,7 +6,6 @@ import java.util.List;
 public class Main {
     public static void main(String[] args){
         BufferedReader myReader;
-        int Digit1;
         int sum = 0;
         try {
             myReader = new BufferedReader(new FileReader(Path.of("Day1\\Day1Part1\\src\\Input.txt").toString()));
